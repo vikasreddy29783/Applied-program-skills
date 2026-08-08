@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vikasreddy29783/Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
